@@ -3,3 +3,4 @@ venv/
 __pycache__/
 *.pyc
 get-pip.py
+dbt/logs/

@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: raw
+    database: NBA_STATS
+    schema: RAW
+    tables:
+      - name: RAW_PLAYER_STATS
+      - name: RAW_ADVANCED_STATS
+      - name: RAW_PLAYER_SALARIES
